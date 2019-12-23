@@ -1,0 +1,29 @@
+{
+    "name": "GravatarPictures",
+    "description": "Obtains Gravatar Profile Pictures",
+    "version": "1.0.0",
+    "theme": false,
+    "require": {
+        "piwik": ">=3.13.0-stable,<4.0.0-b1"
+    },
+    "authors": [
+        {
+            "name": "scysys",
+            "email": "scysys@outlook.com",
+            "homepage": ""
+        }
+    ],
+    "support": {
+        "email": "",
+        "issues": "https://github.com/scysys/MatomoGravatarPictures/issues",
+        "forum": "",
+        "irc": "",
+        "wiki": "",
+        "source": "",
+        "docs": "https://github.com/scysys/MatomoGravatarPictures/tree/master/docs",
+        "rss": ""
+    },
+    "homepage": "https://github.com/scysys/MatomoGravatarPictures",
+    "license": "GPL v3+",
+    "keywords": ["gravatar","profile","profile pictures","profile images"]
+}
