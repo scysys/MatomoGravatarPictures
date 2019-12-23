@@ -14,13 +14,15 @@ Simply go to the Matomo Marketplace and search for "GravatarPictures"
 
 ## FAQ
 
-Check it here: https://github.com/scysys/MatomoGravatarPictures/tree/master/docs
+Check it here: https://github.com/scysys/MatomoGravatarPictures/tree/master/docs/faq.md
 
 ## Changelog
 
 Check it here: https://github.com/scysys/MatomoGravatarPictures/blob/master/CHANGELOG.md
 
 ## License
+
+MatomoGravatarPictures is licensed under the GNU General Public License v3.0
 
 Check it here: https://github.com/scysys/MatomoGravatarPictures/blob/master/LICENSE
 
